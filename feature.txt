@@ -3,4 +3,9 @@ Poprawka HotFix
 linia 2
 linia 3
 Funkcjonalnoœæ w branchu feature
+<<<<<<< HEAD
+=======
+Zakoñczenie
+funkcjonalnoœci feature
+>>>>>>> feature
 
