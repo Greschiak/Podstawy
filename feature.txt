@@ -1,8 +1,8 @@
 linia 1
-Funkcjonalnoœæ w branchu feature
+Poprawka HotFix
 linia 2
 linia 3
+Funkcjonalnoœæ w branchu feature
 Zakoñczenie
-funkcjonalnoœci feature. 
-
+funkcjonalnoœci feature
 
