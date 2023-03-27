@@ -1,5 +1,6 @@
 linia 1
+Funkcjonalnoœæ w branchu feature
 linia 2
 linia 3
 
-Funkcjonalnoœæ w branchu feature
+
